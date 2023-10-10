@@ -33,5 +33,7 @@ public class Solution {
         System.out.println(Solution.isPrime(1));
         System.out.println(Solution.isPrime(31));
         System.out.println(Solution.isPrime(75));
+        System.out.println(Solution.isPrime(113));
+
     }
 }
