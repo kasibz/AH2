@@ -1,4 +1,3 @@
-import java.lang.Math;
 
 public class Solution {
     public static boolean isPrime(int num) {
